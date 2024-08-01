@@ -8,7 +8,10 @@ body {
     flex-wrap: nowrap;
     justify-content: flex-start;
     background-color: #4f495c;
-    font-family: 'Calibri', 'Trebuchet MS', sans-serif
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+    background-image: url('/tulip-2.svg');
+    background-repeat: no-repeat;
+    background-position-x: center;
 }
 
 button {
